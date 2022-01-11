@@ -1,6 +1,9 @@
-layout: page
-title: "Herbarium Sheets"
+---
+title: Herbarium Sheets
+has_children: true
+nav_order: 2
 permalink: /Herbarium Sheets/
+---
 
 # Herbarium Sheets
 
