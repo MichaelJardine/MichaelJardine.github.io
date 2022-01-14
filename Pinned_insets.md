@@ -1,5 +1,5 @@
 ---
 title: Pinned Insects
-has_children: true
+parent: workflows
 nav_order: 1
 ---
