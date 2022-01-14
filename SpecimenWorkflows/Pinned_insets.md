@@ -1,5 +1,6 @@
 ---
 title: Pinned Insects
 parent: Workflows
-nav_order: 1
 ---
+
+Pinned insects workflows will appear here in future
