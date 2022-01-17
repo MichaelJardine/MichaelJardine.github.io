@@ -1,8 +1,8 @@
 ---
-title: An introduction to specimen photography
+title: A quick guide to taking specimen photos
 parent: An introduction to photography 
 ---
 
-#  An introduction to specimen photography
+#  A quick guide to taking specimen photos
 
 Put document from google drive in here when ready
