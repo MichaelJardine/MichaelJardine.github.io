@@ -4,6 +4,18 @@ parent: Workflows
 ---
 
 # Herbarium Sheets
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 
 Plant specimens are typically preserved on paper known as herbarium sheets. Plant specimens have been commonly collected for hundreds of years and form a significant part of UK natural history collections. 
 
@@ -13,4 +25,4 @@ Here we describe and demonstrate a workflow to digitise herbarium sheets that ha
 
 
 
-![herbarium exmaple](https://user-images.githubusercontent.com/94048763/148979899-dd2901de-f3df-4a1e-b702-ebf9a3c50b19.png)
+![herbarium exmaple](https://github.com/MichaelJardine/MichaelJardine.github.io/blob/main/images/Images/herbarium_example.png?raw=true)
