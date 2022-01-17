@@ -1,5 +1,5 @@
 ---
-Title: Test2
+title: Test2
 parent: Workflows
 ---
 # Test2
