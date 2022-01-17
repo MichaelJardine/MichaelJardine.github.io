@@ -1,6 +1,6 @@
 ---
 title: An introduction to specimen photography
-parent: Photography
+parent: An introduction to photography 
 ---
 
 #  An introduction to specimen photography
